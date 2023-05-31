@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "862409509195",
+    "project_id": "chapapp-a6e03",
+    "storage_bucket": "chapapp-a6e03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862409509195:android:bc82e0a0be303934f080ce",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862409509195-7s82pqlc2d2kj53q4eudhjjiemq1luiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "a71d687aaef15b559759f23b1d79d1650b3b9839"
+          }
+        },
+        {
+          "client_id": "862409509195-juve5lhtdr0pl1rnuv3nct9s2ugu5h18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6BPzjDj8wCwmVzpaQq9otjIfUUzNIpnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862409509195-juve5lhtdr0pl1rnuv3nct9s2ugu5h18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
